@@ -21,9 +21,9 @@ Feel free to get in touch!
 <br>
 <a href="#">
     <div>
-        <img height="180em"
+        <img height="150em"
             src="https://github-readme-stats.vercel.app/api?username=pedrohsuzanopinheiro&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight" />
-        <img height="180em"
+        <img height="150em"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohsuzanopinheiro&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&layout=compact" />
     </div>
 </a>
