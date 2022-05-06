@@ -22,7 +22,7 @@ Feel free to get in touch!
 <a href="#">
     <div>
         <img height="150em"
-            src="https://github-readme-stats.vercel.app/api?username=pedrohsuzanopinheiro&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight" />
+            src="https://github-readme-stats.vercel.app/api?username=pedrohsuzanopinheiro&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide=stars,issues" />
         <img height="150em"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohsuzanopinheiro&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&layout=compact" />
     </div>
