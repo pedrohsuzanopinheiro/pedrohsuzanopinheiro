@@ -18,7 +18,7 @@ Feel free to get in touch!
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
     </a>
 </div>
-<br>
+<!-- <br>
 <a href="#">
     <div>
         <img height="150em"
@@ -26,4 +26,4 @@ Feel free to get in touch!
         <img height="150em"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohsuzanopinheiro&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&layout=compact" />
     </div>
-</a>
+</a> -->
