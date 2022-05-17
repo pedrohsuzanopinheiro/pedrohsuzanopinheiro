@@ -1,29 +1,13 @@
-Hey guys! I'm Pedro and I have a bachelor in Computer Science by the Universidade São Judas :smile:
+### Hey, I'm Pedro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">!
 
-Currently I'm working as Data Analyst and I'm studying to being a Data Engineer.
+### What do I do :disguised_face:
 
-My main tools now are Google BigQuery with Google Data Studio.
+Currently I'm working as _Data Analyst_ and I'm studying to being a _Data Engineer_.
 
-Feel free to get in touch!
+My main tools now are **Google BigQuery** with **Google Data Studio**.
 
-<br>
-<div>
-    <a href="https://www.linkedin.com/in/pedrohsuzanopinheiro/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a href="https://medium.com/@pedro.hsuzanopinheiro">
-        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-    </a>
-    <a href="https://twitter.com/thvmbnail">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-    </a>
-</div>
-<!-- <br>
-<a href="#">
-    <div>
-        <img height="150em"
-            src="https://github-readme-stats.vercel.app/api?username=pedrohsuzanopinheiro&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide=stars,issues" />
-        <img height="150em"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohsuzanopinheiro&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&layout=compact" />
-    </div>
-</a> -->
+### Feel free to get in touch! :slightly_smiling_face:
+
+[:handbag: LinkedIn](https://www.linkedin.com/in/pedrohsuzanopinheiro/) <br>
+[:open_book: Medium](https://medium.com/@pedro.hsuzanopinheiro) <br>
+[:hatched_chick: Twitter](https://twitter.com/thvmbnail)
