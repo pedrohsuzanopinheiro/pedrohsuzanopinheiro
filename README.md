@@ -10,4 +10,3 @@ My main tools now are **Google BigQuery** with **Google Data Studio**.
 
 [:handbag: LinkedIn](https://www.linkedin.com/in/pedrohsuzanopinheiro/) <br>
 [:open_book: Medium](https://medium.com/@pedro.hsuzanopinheiro) <br>
-[:hatched_chick: Twitter](https://twitter.com/thvmbnail)
