@@ -2,9 +2,9 @@
 
 ### What do I do :disguised_face:
 
-Currently I'm working as _Data Analyst_ and I'm studying to being a _Data Engineer_.
+Currently I'm working as _System Analyst_ and I'm studying to being a _Data Engineer_.
 
-My main tools now are **Google BigQuery** with **Google Data Studio**.
+My main tools now are **PySpark** with **Databricks ecosystem**.
 
 ### Feel free to get in touch! :slightly_smiling_face:
 
